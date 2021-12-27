@@ -3,7 +3,9 @@ const messages = [
     'Mario',
     'Juan',
     'Yatziri',
-    'Tijuana'
+    'Tijuana',
+    'Carolina',
+    'Michelle'
 ];
 
 const randomMsg = () => {
