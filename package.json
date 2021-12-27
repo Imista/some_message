@@ -8,7 +8,7 @@
   },
   "keywords": [],
   "author": "Muffin Please <benjamintec3455@gmail.com>",
-  "license": "ISC",
+  "license": "MIT",
   "bin":{
     "random-msg": "./bin/global.js"
   },
