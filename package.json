@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "Muffin Please <benjamintec3455@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "bin":{
+    "random-msg": "./bin/global.js"
+  },
+  "preferGlobal": true
 }
